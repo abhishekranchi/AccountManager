@@ -1,7 +1,12 @@
 public class AccountHandler{
 public void handleAccount(){
 system.debug('Handling account');
+
 public void addContact(){
 system.debug('add contact');
+
+public void updateAccount(Account acc){
+system.debug('updating');
+
 }
 }
